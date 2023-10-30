@@ -1,0 +1,60 @@
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.exe
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.deps.json
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.runtimeconfig.json
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.dll
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.pdb
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes_MarkupCompile.cache
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes_MarkupCompile.lref
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.g.resources
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.AssemblyInfoInputs.cache
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.AssemblyInfo.cs
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.csproj.CoreCompileInputs.cache
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.dll
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\refint\Tema3-VisorImagenes.dll
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.pdb
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.genruntimeconfig.cache
+C:\Users\adric\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\ref\Tema3-VisorImagenes.dll
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.exe
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.deps.json
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.runtimeconfig.json
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.dll
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.pdb
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes_MarkupCompile.cache
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes_MarkupCompile.lref
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.g.resources
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.AssemblyInfo.cs
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.dll
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\refint\Tema3-VisorImagenes.dll
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.pdb
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.genruntimeconfig.cache
+C:\Users\alumno\source\repos\Tema3-VisorImagenes\Tema3-VisorImagenes\obj\Debug\net6.0-windows\ref\Tema3-VisorImagenes.dll
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes_MarkupCompile.cache
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes_MarkupCompile.lref
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.dll
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\refint\Tema3-VisorImagenes.dll
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.pdb
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.exe
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.deps.json
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.runtimeconfig.json
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.dll
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\bin\Debug\net6.0-windows\Tema3-VisorImagenes.pdb
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.g.resources
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.AssemblyInfo.cs
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\Tema3-VisorImagenes.genruntimeconfig.cache
+C:\Users\alumno\source\repos\Tema3-VisorImagenes - copia\Tema3-VisorImagenes\obj\Debug\net6.0-windows\ref\Tema3-VisorImagenes.dll
