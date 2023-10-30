@@ -1,0 +1,38 @@
+﻿<Window x:Class="Tema3_Estaciones.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema3_Estaciones"
+        mc:Ignorable="d"
+        Title="Estaciones" Height="450" Width="800" Icon="/2730383-fall-inkcontober-leaf-orange-season_112685.ico">
+
+    <DockPanel Background="#BAFCE5">
+        <TextBlock Text="Las 4 estaciones" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="25" FontFamily="Comic Sans MS" DockPanel.Dock="Top">
+            <TextBlock.Effect>
+                <DropShadowEffect ShadowDepth="4" Direction="330" Color="Black" Opacity="0.5" BlurRadius="4"/>
+            </TextBlock.Effect>
+            <TextBlock.Foreground>
+                <LinearGradientBrush StartPoint="1,0" EndPoint="1,1">
+                    <GradientStop Color="Yellow" Offset="0.0" />
+                    <GradientStop Color="Red" Offset="0.25" />
+                    <GradientStop Color="Blue" Offset="0.75" />
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <UniformGrid Rows="2" Columns="2">
+            <ScrollViewer Margin="10" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <Image Source="/invierno.jpg"/>
+            </ScrollViewer>
+            <ScrollViewer Margin="10" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <Image Source="/primavera.jpg"/>
+            </ScrollViewer>
+            <ScrollViewer Margin="10" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <Image Source="/verano.jpg"/>
+            </ScrollViewer>
+            <ScrollViewer Margin="10" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <Image Source="/otoño.jpg"/>
+            </ScrollViewer>
+        </UniformGrid>
+    </DockPanel>
+</Window>

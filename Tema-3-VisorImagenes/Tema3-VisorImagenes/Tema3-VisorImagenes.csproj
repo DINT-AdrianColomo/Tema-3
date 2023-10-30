@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Tema3_VisorImagenes</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="episodioIV.jpg" />
+    <None Remove="Picture_Viewer_23648.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="episodioIV.jpg" />
+    <Resource Include="Picture_Viewer_23648.ico" />
+  </ItemGroup>
+
+</Project>
