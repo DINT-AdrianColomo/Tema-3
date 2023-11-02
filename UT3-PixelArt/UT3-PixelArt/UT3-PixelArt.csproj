@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>UT3_PixelArt</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="drawing_icon-icons.com_76990.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="drawing_icon-icons.com_76990.ico" />
+  </ItemGroup>
+
+</Project>

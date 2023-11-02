@@ -1,0 +1,60 @@
+﻿<Window x:Class="UT3_PixelArt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UT3_PixelArt"
+        mc:Ignorable="d"
+        Title="Pixel Art" Height="450" Width="800" Icon="/drawing_icon-icons.com_76990.ico">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="buttonStyle">
+            <Setter Property="Background" Value="LightCyan"/>
+            <Setter Property="BorderBrush" Value="DarkCyan"/>
+            <Setter Property="BorderThickness" Value="0.5"/>
+            <Setter Property="Width" Value="80"/>
+            <Setter Property="Foreground" Value="DarkCyan"/>
+        </Style>
+        <Style TargetType="{x:Type GroupBox}" x:Key="groupBox">
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="BorderBrush" Value="DarkCyan"/>
+            <Setter Property="BorderThickness" Value="0.5"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+        <Style TargetType="{x:Type RadioButton}">
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+    </Window.Resources>
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Left" Margin="10,30" >
+            <GroupBox Header="Nuevo" Width="100" Height="150" Style="{StaticResource groupBox}">
+                <WrapPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Button Content="Pequeño" Margin="0,15" Tag="5" Click="Button_Click" Style="{StaticResource buttonStyle}"/>
+                    <Button Content="Mediano" Margin="0" Tag="15" Click="Button_Click" Style="{StaticResource buttonStyle}"/>
+                    <Button Content="Grande" Margin="0,15" Tag="30" Click="Button_Click" Style="{StaticResource buttonStyle}"/>
+                </WrapPanel>
+            </GroupBox>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Right" Margin="0,30">
+            <GroupBox Header="Colores" HorizontalAlignment="Left"  Style="{StaticResource groupBox}">
+                <WrapPanel Orientation="Vertical" Margin="10,20">
+                    <RadioButton Content="Blanco" Margin="5" Checked="RadioButton_Checked" Tag="#FFFFFFFF" IsChecked="True"/>
+                    <RadioButton Content="Negro" Margin="5" Checked="RadioButton_Checked" Tag="#FF000000"/>
+                    <RadioButton Content="Rojo" Margin="5" Checked="RadioButton_Checked" Tag="#FF0000"/>
+                    <RadioButton Content="Verde" Margin="5" Checked="RadioButton_Checked" Tag="#FF00FF00"/>
+                    <RadioButton Content="Azul" Margin="5" Checked="RadioButton_Checked" Tag="#FF0000FF"/>
+                    <RadioButton Content="Amarillo" Margin="5" Checked="RadioButton_Checked" Tag="#FFFFFF00"/>
+                    <RadioButton Content="Naranja" Margin="5" Checked="RadioButton_Checked" Tag="#FFFFA500"/>
+                    <RadioButton Content="Rosa" Margin="5" Checked="RadioButton_Checked" Tag="#FFFFC0CB"/>
+                    <RadioButton Content="Personalizado" Margin="5" Checked="RadioButton_Checked" Tag="personalizado"/>
+                    <TextBox x:Name="colorPersonalizado" Text="#4FC3F7" IsEnabled="False"/>
+                </WrapPanel>
+            </GroupBox>
+            <Button Content="Rellenar" Width="55" Click="Rellenar_Click" Style="{StaticResource buttonStyle}"/>
+        </StackPanel>
+        <Border x:Name="borde" Margin="20,20,20,20">
+            <UniformGrid x:Name="cuadricula" DockPanel.Dock="Top"/>
+        </Border>
+    </DockPanel>
+
+</Window>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UT3-PixelArt/1.0.0": {
+        "runtime": {
+          "UT3-PixelArt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UT3-PixelArt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
