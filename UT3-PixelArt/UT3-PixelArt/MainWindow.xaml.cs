@@ -1,19 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Controls.Primitives;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace UT3_PixelArt
 {
@@ -53,7 +42,29 @@ namespace UT3_PixelArt
         {
             Button? btn = sender as Button;
             int size = int.Parse(btn.Tag.ToString());
-            CrearCuadricula(size);
+            bool modificado = false;
+            foreach (Border border in cuadricula.Children)
+            {
+                if (border.Child is TextBlock textBlock)
+                {
+                    if (textBlock.Background != Brushes.White)
+                    {
+                        modificado = true;
+                    }
+                }
+            }
+            if(modificado == true)
+            {
+                MessageBoxResult result = MessageBox.Show("Vas a borrar una cuadricula modificada", "Confirmación", MessageBoxButton.YesNo);
+                if(result == MessageBoxResult.Yes) 
+                {
+                    CrearCuadricula(size);
+                }
+            }
+            else
+            {
+                CrearCuadricula(size);
+            }
         }
         private void Border_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
