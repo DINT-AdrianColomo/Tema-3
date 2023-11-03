@@ -109,10 +109,14 @@ namespace UT3_PixelArt
                     {
                         color = (SolidColorBrush)new BrushConverter().ConvertFrom(colorPersonalizado.Text);
                     }
+                    else
+                    {
+                        color = Brushes.White;
+                    }
                 }
                 catch (Exception ex)
                 {
-                    color = (SolidColorBrush)new BrushConverter().ConvertFrom("#FFFFFFFF");
+                    Console.WriteLine("Se produjo una excepción: " + ex.Message);
                 }
             }
         }
